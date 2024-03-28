@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student in M2 in agronomy with data science speciality
+Graduated in agronomy with data science speciality
 
 
 # 💻 Tech Stack:
